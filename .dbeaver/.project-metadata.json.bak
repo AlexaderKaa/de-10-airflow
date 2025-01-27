@@ -1,1 +1,1 @@
-{"resources":{"Scripts/2.9.01":{"default-datasource":"postgres-jdbc-19488aa10ec-17ea5482eaf89fbf","default-catalog":"student","default-schema":"public"}}}
+{"resources":{"Scripts/2.8.01.sql":{"default-datasource":"postgres-jdbc-19488aa10ec-17ea5482eaf89fbf"},"Scripts/2.9.01.sql":{"default-datasource":"postgres-jdbc-19488aa10ec-17ea5482eaf89fbf"},"Scripts/2.9.02.sql":{"default-datasource":"postgres-jdbc-19488aa10ec-17ea5482eaf89fbf"},"Scripts/Script.sql":{"default-datasource":"postgres-jdbc-19488aa10ec-17ea5482eaf89fbf","default-catalog":"student","default-schema":"public"}}}

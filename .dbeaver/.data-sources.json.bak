@@ -20,9 +20,6 @@
 					"@dbeaver-chosen-role@": ""
 				},
 				"auth-model": "native"
-			},
-			"custom-properties": {
-				"sql.format.keywordCase": "UPPER"
 			}
 		}
 	},
